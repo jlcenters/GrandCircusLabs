@@ -1,0 +1,50 @@
+body, html {
+	height: 100%;
+}
+
+#bio {
+	text-align: right;
+}
+
+#foot {
+	padding: 5px;
+	text-align: center;
+	margin-top: 5px;
+	color: #ffffff;
+	opacity: .2
+}
+
+#index {
+	background-image:
+		url("https://upload.wikimedia.org/wikipedia/commons/9/9b/Hubble_Space_Telescope_Celebrates_25_Years_of_Unveiling_the_Universe_%2817242948992%29.jpg");
+	color : #ffffff;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	color: #ffffff;
+}
+
+#about {
+	background-image:
+		url("https://asd.gsfc.nasa.gov/blueshift/wp-content/uploads/2016/09/horseheadir_hubble_1225.jpg");
+	height: 100%;
+	color: #ffffff;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+#portfolio {
+	background-image:
+		url("https://live.staticflickr.com/830/42250484451_5447e171ba_b.jpg");
+	color: #ffffff;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.card {
+	background: rgba(205, 92, 92, 0.3);
+}
